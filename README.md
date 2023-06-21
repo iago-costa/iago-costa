@@ -35,7 +35,7 @@
     <b> </b>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
         width="25">
-    <b> Stack</b>
+    <b> Loved Stacks</b>
 </h2>
 
 <h3>📋 Languages</h3>
@@ -83,6 +83,15 @@
                 Golang
             </a>
         </td>
+        <!-- Zig -->
+        <td align="center" width="110">
+            <a href="https://ziglang.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"
+                    alt="zig" width="40" height="40" />
+                <br>
+                Zig
+            </a>
+        </td>
         <td align="center" width="110">
             <a href="https://www.python.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -125,6 +134,15 @@
                 CSS
             </a>
         </td>
+        <!-- dart -->
+        <td align="center" width="110">
+            <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+                    alt="dart" width="40" height="40" />
+                <br>
+                Dart
+            </a>
+        </td>
         <td align="center" width="110">
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -134,20 +152,20 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-            height="40" />
-        <br>
-        Kotlin
-    </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
+        height="40" />
+    <br>
+    Kotlin
+</a>
 </td> -->
         <!-- <td align="center" width="110">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-        <br>
-        C#
-    </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        alt="csharp" width="40" height="40" />
+    <br>
+    C#
+</a>
 </td> -->
     </tr>
 </table>
@@ -158,9 +176,8 @@
     <tr>
         <!-- freshjs -->
         <td align="center" width="110">
-            <a href="https://freshjs.netlify.app/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/abdoachhoubi/abdoachhoubi/main/gifs/freshjs.png" alt="fresh"
-                    width="40" height="40" />
+            <a href="https://fresh.deno.dev/" target="_blank" rel="noreferrer">
+                <img src="https://deno.com/blog/fresh-is-stable/lemon-squash.svg" alt="fresh" width="40" height="40" />
                 <br>
                 Fresh
             </a>
@@ -177,8 +194,8 @@
         <!-- Nextjs -->
         <td align="center" width="110">
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/abdoachhoubi/abdoachhoubi/main/gifs/nextjs.png" alt="nextjs"
-                    width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.png" alt="nextjs" width="40"
+                    height="40" />
                 <br>
                 NextJS
             </a>
@@ -200,13 +217,13 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
-            height="40" />
-        <br>
-        AngularJS
-    </a>
-</td> -->
+            <a href="https://angular.io" target="_blank" rel="noreferrer">
+                <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
+                    height="40" />
+                <br>
+                AngularJS
+            </a>
+        </td> -->
         <td align="center" width="110">
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -237,7 +254,32 @@
                 <br>
                 DotNet
             </a>
-        </td>! -->
+        </td> -->
+        <!-- REST -->
+        <td align="center" width="110">
+            <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
+                <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png"
+                    alt="rest" width="40" height="40" />
+                <br>
+                Rest
+            </a>
+        </td>
+        <!-- gRPC -->
+        <td align="center" width="110">
+            <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40" />
+                <br>
+                gRPC
+            </a>
+        </td>
+        <td align="center" width="110">
+            <a href="https://graphql.org" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40"
+                    height="40" />
+                <br>
+                Graphql
+            </a>
+        </td>
         <!-- Django -->
         <td align="center" width="110">
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -245,6 +287,24 @@
                     alt="Django" width="40" height="40">
                 <br>
                 Django
+            </a>
+        </td>
+        <!-- Rocket -->
+        <td align="center" width="110">
+            <a href="https://rocket.rs/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rocket" width="40"
+                    height="40" />
+                <br>
+                Rocket
+            </a>
+        </td>
+        <!-- fastapi -->
+        <td align="center" width="110">
+            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/tiangolo/fastapi-icon.svg" alt="fastapi" width="40"
+                    height="40" />
+                <br>
+                FastAPI
             </a>
         </td>
         <td align="center" width="110">
@@ -288,37 +348,21 @@
                 NestJS
             </a>
         </td>
-        <!-- REST -->
-        <td align="center" width="110">
-            <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/restapi/restapi-icon.svg" alt="rest" width="40"
-                    height="40" />
-                <br>
-                Rest
-            </a>
-        </td>
-        <!-- gRPC -->
-        <td align="center" width="110">
-            <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40" />
-                <br>
-                gRPC
-            </a>
-        </td>
-        <td align="center" width="110">
-            <a href="https://graphql.org" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40"
-                    height="40" />
-                <br>
-                Graphql
-            </a>
-        </td>
         <td align="center" width="110">
             <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40"
                     height="40" />
                 <br>
                 Rabbitmq
+            </a>
+        </td>
+        <!-- apache kafka -->
+        <td align="center" width="110">
+            <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40"
+                    height="40" />
+                <br>
+                Kafka
             </a>
         </td>
     </tr>
@@ -377,19 +421,36 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
-            height="40" />
-        <br>
-        ElasticSearch
-    </a>
-</td> -->
+            <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
+                    height="40" />
+                <br>
+                ElasticSearch
+            </a>
+        </td> -->
         <td align="center" width="110">
             <a href="https://redis.io" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
                     alt="redis" width="40" height="40" />
                 <br>
                 Redis
+            </a>
+        </td>
+        <td align="center" width="110">
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+                    height="40" />
+                <br>
+                Firebase
+            </a>
+        </td>
+        <!-- Scylla DB -->
+        <td align="center" width="110">
+            <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" alt="scylladb" width="40"
+                    height="40" />
+                <br>
+                ScyllaDB
             </a>
         </td>
     </tr>
@@ -399,12 +460,12 @@
 <table>
     <tr>
         <!-- <td align="center" width="110">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
-            width="40" height="40" />
-        <br>
-        Azure
-    </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
+        width="40" height="40" />
+    <br>
+    Azure
+</a>
 </td> -->
         <!-- AWS -->
         <td align="center" width="110">
@@ -425,21 +486,13 @@
         </td>
         <!-- Google Cloud Platform -->
         <!-- <td align="center" width="110">
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" />
-        <br>
-        GCP
-    </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+        height="40" />
+    <br>
+    GCP
+</a>
 </td> -->
-        <td align="center" width="110">
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                    height="40" />
-                <br>
-                Firebase
-            </a>
-        </td>
         <td align="center" width="110">
             <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -454,6 +507,15 @@
                     height="40" />
                 <br>
                 Kubernetes
+            </a>
+        </td>
+        <!-- Terraform -->
+        <td align="center" width="110">
+            <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40"
+                    height="40" />
+                <br>
+                Terraform
             </a>
         </td>
         <td align="center" width="110">
@@ -481,13 +543,22 @@
                 Grafana
             </a>
         </td>
+        <!-- Prometheus -->
+        <td align="center" width="110">
+            <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus"
+                    width="40" height="40" />
+                <br>
+                Prometheus
+            </a>
+        </td>
         <!-- <td align="center" width="110">
-    <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"
-            width="40" height="40" />
-        <br>
-        Kibana
-    </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"
+        width="40" height="40" />
+    <br>
+    Kibana
+</a>
 </td> -->
     </tr>
 </table>
@@ -512,6 +583,15 @@
                 Jest
             </a>
         </td>
+        <!-- pytest -->
+        <td align="center" width="110">
+            <a href="https://www.pytest.org" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/pytestmedia/pytestmedia-icon.svg" alt="pytest" width="40"
+                    height="40" />
+                <br>
+                Pytest
+            </a>
+        </td>
     </tr>
 </table>
 
@@ -526,6 +606,15 @@
                 Linux
             </a>
         </td>
+        <!-- Arch Linux -->
+        <td align="center" width="110">
+            <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40"
+                    height="40" />
+                <br>
+                Arch Linux
+            </a>
+        </td>
         <td align="center" width="110">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
@@ -534,6 +623,16 @@
                 Git
             </a>
         </td>
+        <!-- Sonar Qube -->
+        <td align="center" width="110">
+            <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40"
+                    height="40" />
+                <br>
+                SonarQube
+            </a>
+        </td>
+        <!--  -->
         <td align="center" width="110">
             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
@@ -558,13 +657,22 @@
                 Postman
             </a>
         </td>
+        <!-- Notion -->
+        <td align="center" width="110">
+            <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40"
+                    height="40" />
+                <br>
+                Notion
+            </a>
+        </td>
         <!-- <td align="center" width="110">
-    <a href="https://www.jetbrains.com" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Jetbrains" width="40"
-            height="40" />
-        <br>
-        Jetbrains
-    </a>
+<a href="https://www.jetbrains.com" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Jetbrains" width="40"
+        height="40" />
+    <br>
+    Jetbrains
+</a>
 </td> -->
         <td align="center" width="110">
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
