@@ -134,21 +134,21 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-                height="40" />
-            <br>
-            Kotlin
-        </a>
-    </td> -->
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
+            height="40" />
+        <br>
+        Kotlin
+    </a>
+</td> -->
         <!-- <td align="center" width="110">
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" width="40" height="40" />
-            <br>
-            C#
-        </a>
-    </td> -->
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp" width="40" height="40" />
+        <br>
+        C#
+    </a>
+</td> -->
     </tr>
 </table>
 
@@ -200,13 +200,13 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://angular.io" target="_blank" rel="noreferrer">
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
-                height="40" />
-            <br>
-            AngularJS
-        </a>
-    </td> -->
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
+            height="40" />
+        <br>
+        AngularJS
+    </a>
+</td> -->
         <td align="center" width="110">
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -231,13 +231,13 @@
 <table>
     <tr>
         <!-- <td align="center" width="110">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-                alt="dotnet" width="40" height="40" />
-            <br>
-            DotNet
-        </a>
-    </td>! -->
+            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                    alt="dotnet" width="40" height="40" />
+                <br>
+                DotNet
+            </a>
+        </td>! -->
         <!-- Django -->
         <td align="center" width="110">
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -288,7 +288,6 @@
                 NestJS
             </a>
         </td>
-
         <!-- REST -->
         <td align="center" width="110">
             <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
@@ -378,13 +377,13 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
-                height="40" />
-            <br>
-            ElasticSearch
-        </a>
-    </td> -->
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
+            height="40" />
+        <br>
+        ElasticSearch
+    </a>
+</td> -->
         <td align="center" width="110">
             <a href="https://redis.io" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -400,13 +399,13 @@
 <table>
     <tr>
         <!-- <td align="center" width="110">
-        <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
-                width="40" height="40" />
-            <br>
-            Azure
-        </a>
-    </td> -->
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
+            width="40" height="40" />
+        <br>
+        Azure
+    </a>
+</td> -->
         <!-- AWS -->
         <td align="center" width="110">
             <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -426,13 +425,13 @@
         </td>
         <!-- Google Cloud Platform -->
         <!-- <td align="center" width="110">
-        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-                height="40" />
-            <br>
-            GCP
-        </a>
-    </td> -->
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+            height="40" />
+        <br>
+        GCP
+    </a>
+</td> -->
         <td align="center" width="110">
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
@@ -483,13 +482,13 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"
-                width="40" height="40" />
-            <br>
-            Kibana
-        </a>
-    </td> -->
+    <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"
+            width="40" height="40" />
+        <br>
+        Kibana
+    </a>
+</td> -->
     </tr>
 </table>
 
@@ -560,13 +559,13 @@
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://www.jetbrains.com" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Jetbrains" width="40"
-                height="40" />
-            <br>
-            Jetbrains
-        </a>
-    </td> -->
+    <a href="https://www.jetbrains.com" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Jetbrains" width="40"
+            height="40" />
+        <br>
+        Jetbrains
+    </a>
+</td> -->
         <td align="center" width="110">
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
                 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
