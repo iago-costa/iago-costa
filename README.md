@@ -448,10 +448,10 @@
         </td>
         <td align="center" width="110">
             <a>
-                <img src="https://www.vectorlogo.zone/logos/io/io-icon.svg" height="40" width="40"
-                    alt="NeoVim">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" height="40" width="40"
+                    alt="Vim">
                 <br>
-                NeoVim
+                Vim
             </a>
         </td>
         <td align="center" width="110">
