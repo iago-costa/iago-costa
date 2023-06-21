@@ -677,7 +677,7 @@ Kibana
         <!-- Jmeter -->
         <td align="center" width="110">
             <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter"
+                <img src="https://jmeter.apache.org/images/jmeter.png" alt="jmeter"
                     width="40" height="40" />
                 <br>
                 Jmeter
