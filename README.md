@@ -13,14 +13,14 @@
         <td width="80%">
             - 🌱 I’m currently learning 
                 <b>
-                        1 - Rust
-                        2 - C++
-                        3 - Go
-                        4 - Kubernetes
-                        5 - AWS
-                        6 - LSTM
-                        7 - LLM
-                        8 - Transformers
+                        1 - Rust<br>
+                        2 - C++<br>
+                        3 - Go<br>
+                        4 - Kubernetes<br>
+                        5 - AWS<br>
+                        6 - LSTM<br>
+                        7 - LLM<br>
+                        8 - Transformers<br>
                 </b>
             <br> <br>
             - 💬 Ask me about 
