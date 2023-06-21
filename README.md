@@ -401,8 +401,8 @@ Android
 <!-- ////////////////////////////////////////  Stats Section \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ !-->            
 <h2><b> </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/><b> Github Stats</b></h2>
 <p align="center">
-<img height="195em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iago-costa&theme=dracula" alt="iago-costa" />
-<img height="195em" width="49%" src="https://github-readme-stats.vercel.app/api?username=iago-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iago-costa&theme=dracula" alt="iago-costa" />
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=iago-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
 <p>
