@@ -16,8 +16,7 @@
             - 💬 Ask me about <b>Django/Python</b>
         </td>
         <td width="80%">
-            <img align="right" alt="Coding"
-                src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+            <img align="right" alt="Coding" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
         </td>
     </tr>
 </table>
@@ -154,7 +153,7 @@
         <!-- <td align="center" width="110">
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-    height="40" />
+height="40" />
 <br>
 Kotlin
 </a>
@@ -162,7 +161,7 @@ Kotlin
         <!-- <td align="center" width="110">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    alt="csharp" width="40" height="40" />
+alt="csharp" width="40" height="40" />
 <br>
 C#
 </a>
@@ -217,13 +216,13 @@ C#
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://angular.io" target="_blank" rel="noreferrer">
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
-                height="40" />
-            <br>
-            AngularJS
-        </a>
-    </td> -->
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
+            height="40" />
+        <br>
+        AngularJS
+    </a>
+</td> -->
         <td align="center" width="110">
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -248,13 +247,13 @@ C#
 <table>
     <tr>
         <!-- <td align="center" width="110">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-                alt="dotnet" width="40" height="40" />
-            <br>
-            DotNet
-        </a>
-    </td> -->
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+            alt="dotnet" width="40" height="40" />
+        <br>
+        DotNet
+    </a>
+</td> -->
         <!-- REST -->
         <td align="center" width="110">
             <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
@@ -421,13 +420,13 @@ C#
             </a>
         </td>
         <!-- <td align="center" width="110">
-        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
-                height="40" />
-            <br>
-            ElasticSearch
-        </a>
-    </td> -->
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
+            height="40" />
+        <br>
+        ElasticSearch
+    </a>
+</td> -->
         <td align="center" width="110">
             <a href="https://redis.io" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -462,7 +461,7 @@ C#
         <!-- <td align="center" width="110">
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
-    width="40" height="40" />
+width="40" height="40" />
 <br>
 Azure
 </a>
@@ -488,7 +487,7 @@ Azure
         <!-- <td align="center" width="110">
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-    height="40" />
+height="40" />
 <br>
 GCP
 </a>
@@ -555,7 +554,7 @@ GCP
         <!-- <td align="center" width="110">
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana"
-    width="40" height="40" />
+width="40" height="40" />
 <br>
 Kibana
 </a>
@@ -645,8 +644,7 @@ Kibana
         <!-- Sonar Qube -->
         <td align="center" width="110">
             <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-                <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonarqube" width="40"
-                    height="40" />
+                <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonarqube" width="40" height="40" />
                 <br>
                 SonarQube
             </a>
@@ -676,11 +674,20 @@ Kibana
                 Postman
             </a>
         </td>
+        <!-- Jmeter -->
+        <td align="center" width="110">
+            <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter"
+                    width="40" height="40" />
+                <br>
+                Jmeter
+            </a>
+        </td>
         <!-- Notion -->
         <td align="center" width="110">
             <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="40"
-                    height="40" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"
+                    alt="notion" width="40" height="40" />
                 <br>
                 Notion
             </a>
@@ -688,7 +695,7 @@ Kibana
         <!-- <td align="center" width="110">
 <a href="https://www.jetbrains.com" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Jetbrains" width="40"
-    height="40" />
+height="40" />
 <br>
 Jetbrains
 </a>
