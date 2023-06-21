@@ -448,10 +448,10 @@
         </td>
         <td align="center" width="110">
             <a>
-                <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="40" width="40"
-                    alt="neovim">
+                <img src="https://www.vectorlogo.zone/logos/io/io-icon.svg" height="40" width="40"
+                    alt="NeoVim">
                 <br>
-                Neovim
+                NeoVim
             </a>
         </td>
         <td align="center" width="110">
