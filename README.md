@@ -11,9 +11,20 @@
 <table align="center">
     <tr>
         <td width="80%">
-            - 🌱 I’m currently learning <b>Rust/C++/Go/Kubernetes/AWS/LSTM/LLM/Transformers</b>
+            - 🌱 I’m currently learning 
+                <b>
+                        1 - Rust
+                        2 - C++
+                        3 - Go
+                        4 - Kubernetes
+                        5 - AWS
+                        6 - LSTM
+                        7 - LLM
+                        8 - Transformers
+                </b>
             <br> <br>
-            - 💬 Ask me about <b>Django/Python</b>
+            - 💬 Ask me about 
+                <b>Django or Python</b>
         </td>
         <td width="80%">
             <img align="right" alt="Coding" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
