@@ -190,6 +190,15 @@ C#
                 Jquery
             </a>
         </td>
+        <!-- TailwindCSS -->
+        <td align="center" width="110">
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss"
+                    width="40" height="40" />
+                <br>
+                TailwindCSS
+            </a>
+        </td>
         <!-- Nextjs -->
         <td align="center" width="110">
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -677,8 +686,7 @@ Kibana
         <!-- Jmeter -->
         <td align="center" width="110">
             <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-                <img src="https://jmeter.apache.org/images/jmeter.png" alt="jmeter"
-                    width="40" height="40" />
+                <img src="https://jmeter.apache.org/images/jmeter.png" alt="jmeter" width="40" height="40" />
                 <br>
                 Jmeter
             </a>
