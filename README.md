@@ -11,9 +11,9 @@
 <table align="center">
     <tr>
         <td width="80%">
-            - 🌱 I’m currently learning 
+            - 🌱 I’m currently learning:
                 <b>
-                        1 - Rust<br>
+                        <br>1 - Rust<br>
                         2 - C++<br>
                         3 - Go<br>
                         4 - Kubernetes<br>
@@ -22,9 +22,9 @@
                         7 - LLM<br>
                         8 - Transformers<br>
                 </b>
-            <br> <br>
-            - 💬 Ask me about 
-                <b>Django or Python</b>
+            <br>
+            - 💬 Ask me about:<br>
+                <b>Django, Python, Linux, Docker, Postman, gRPC, REST or Streams</b>
         </td>
         <td width="80%">
             <img align="right" alt="Coding" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
