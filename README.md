@@ -10,32 +10,14 @@
 
 <table align="center">
     <tr>
-        <td width="70%">
-
-            - 🌱 I’m currently learning **Rust/C++/Go/Kubernetes**
-            - 💬 Ask me about **Django/Python**
-
-            <!--
-**iago-costa/iago-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+        <td width="80%">
+                - 🌱 I’m currently learning <b>Rust/C++/Go/Kubernetes</b>
+                <br> <br>
+                - 💬 Ask me about <b>Django/Python</b>
         </td>
-        <td width="30%">
-
+        <td width="80%">
             <img align="right" alt="Coding"
                 src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
         </td>
     </tr>
 </table>
@@ -52,7 +34,6 @@ Here are some ideas to get you started:
         src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
         width="25"><b> Stack</b></h2>
 <h3>📋 Languages</h3>
-<p align="left">
 <table>
     <tr>
         <!-- C++ -->
@@ -89,7 +70,6 @@ Here are some ideas to get you started:
                 Python
             </a>
         </td>
-
         <td align="center" width="110">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -146,10 +126,8 @@ Here are some ideas to get you started:
                 CSS
             </a>
         </td>
-
     </tr>
 </table>
-
 
 <h3>🚀 Frontend</h3>
 <table>
