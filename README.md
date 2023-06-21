@@ -11,17 +11,8 @@
 <table align="center">
     <tr>
         <td width="80%">
-            - 🌱 I’m currently learning:
-                <b>
-                        <br>1 - Rust<br>
-                        2 - C++<br>
-                        3 - Go<br>
-                        4 - Kubernetes<br>
-                        5 - AWS<br>
-                        6 - LSTM<br>
-                        7 - LLM<br>
-                        8 - Transformers<br>
-                </b>
+            - 🌱 I’m currently learning:<br>
+                <b>Rust, C++, Go, Kubernetes, AWS, Long Short-Term Memory Networks(LSTM), Large Language Models(LLM) and Transformers</b>
             <br>
             - 💬 Ask me about:<br>
                 <b>Django, Python, Linux, Docker, Postman, gRPC, REST or Streams</b>
