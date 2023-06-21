@@ -11,7 +11,7 @@
 <table align="center">
     <tr>
         <td width="80%">
-            - 🌱 I’m currently learning <b>Rust/C++/Go/Kubernetes/LSTM/LLM</b>
+            - 🌱 I’m currently learning <b>Rust/C++/Go/Kubernetes/AWS/LSTM/LLM/Transformers</b>
             <br> <br>
             - 💬 Ask me about <b>Django/Python</b>
         </td>
