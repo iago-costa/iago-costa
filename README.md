@@ -199,6 +199,8 @@
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
                     alt="Django" width="40" height="40">
+                <br>
+                Django
             </a>
         </td>
         <td align="center" width="110">
