@@ -1,6 +1,6 @@
 <!-- ////////////////////////////////////////  Intro Section \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ !-->
 
-<h1 align="center"><b>Hi there 👋, I'm Iago Costa </b><img
+<h1 align="center"><b>Hi there, I'm Iago Costa </b><img
         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="" /></h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
