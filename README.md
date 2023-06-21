@@ -17,7 +17,7 @@
         </td>
         <td width="80%">
             <img align="right" alt="Coding"
-                src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+                src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
         </td>
     </tr>
 </table>
