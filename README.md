@@ -12,7 +12,7 @@
     <tr>
         <td width="80%">
             - 🌱 I’m currently learning:<br>
-                <b>Rust, C++, Go, Kubernetes, AWS, Long Short-Term Memory Networks(LSTM), Large Language Models(LLM) and Transformers</b>
+                <b>Rust, C++, Go, Kubernetes, AWS(Cloud Computing), Low Level Virtual Machine(LLVM), Long Short-Term Memory Networks(LSTM), Large Language Models(LLM), Recurrent Neural Network(RNN) and Transformers</b>
             <br>
             - 💬 Ask me about:<br>
                 <b>Django, Python, Linux, Docker, Postman, gRPC, REST or Streams</b>
