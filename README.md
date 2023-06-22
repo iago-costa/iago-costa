@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, I'm Iago Costa! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="" /></h3>
 <h3 align="center">Working as Software Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFF&background=DC000000&center=true&vCenter=true&width=1500&lines=I+LOVE+work+with+distributed+and+and+low+latency+technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFF&background=DC000000&center=true&vCenter=true&width=1500&lines=I+LOVE+work+with+distributed+and+low+latency+technologies!)](https://git.io/typing-svg)
 
 <p align="center">
     <img width="15%" src="https://komarev.com/ghpvc/?username=iago-costa&label=Profile%20views&color=0e75b6&style=flat" alt="iago-costa" />
