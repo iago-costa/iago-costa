@@ -76,6 +76,17 @@
                     alt="" />
             </a>
         </td>
+        <!-- Clojure -->
+        <td align="center" width="110">
+            <a href="https://clojure.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg"
+                    alt="clojure" width="40" height="40" />
+                <br>
+                Clojure
+                <img src="https://raw.githubusercontent.com/abdoachhoubi/abdoachhoubi/main/gifs/love.gif" width="20"
+                    alt="" />
+            </a>
+        </td>
         <!-- Golang -->
         <td align="center" width="110">
             <a href="https://golang.org/" target="_blank" rel="noreferrer">
@@ -269,8 +280,7 @@ C#
         <!-- REST -->
         <td align="center" width="110">
             <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
-                <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png"
-                    alt="rest" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="rest" width="40" height="40" />
                 <br>
                 Rest
             </a>
@@ -390,6 +400,15 @@ C#
                     height="40" />
                 <br>
                 Flutter
+            </a>
+        </td>
+        <!-- Kotlin -->
+        <td align="center" width="110"
+            <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
+                    height="40" />
+                <br>
+                Kotlin
             </a>
         </td>
         <td align="center" width="110">
