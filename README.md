@@ -641,6 +641,15 @@ Kibana
                 Numpy
             </a>
         </td>
+        <!-- Cypress -->
+        <td align="center" width="110">
+            <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+                <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress" width="40"
+                    height="40" />
+                <br>
+                Cypress
+            </a>
+        </td>
     </tr>
 </table>
 
